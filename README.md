@@ -3,7 +3,7 @@
 
 [Baking BadCSS](BakingBad.html)
 
--- Below is the base HTML
+-- Below is the wireframe and base HTML
 
 ![Wireframe based off](https://user-images.githubusercontent.com/122787483/213141378-073b2608-f73c-49af-bcdb-fe40ba2193c0.png)
 
